@@ -80,77 +80,56 @@ I view constructive criticism as an opportunity for growth and improvement. I ac
 
 In five years, I envision myself as a proficient software developer specializing in aerospace applications, particularly in propulsion systems and data analysis. I hope to have contributed to several innovative projects that enhance satellite safety and efficiency. Additionally, I aspire to take on leadership roles where I can mentor and inspire others in the field.
 
-### Programming and Software Development
+## 21. Can you explain your experience with Python and how you've used it in your projects? Could you provide an example of a specific function or library you found particularly useful?  
+I have extensive experience with Python, primarily utilizing it for data analysis and automation tasks. For example, in developing the attendance tracking system for my NSS and Drone club organizations, I leveraged the Pandas library for data manipulation and analysis. A specific function I found particularly useful was `groupby()`, which allowed me to aggregate attendance data efficiently and derive insights into member participation trends.
 
-21. **Can you explain your experience with Python and how you've used it in your projects? Could you provide an example of a specific function or library you found particularly useful?**  
-   I have extensive experience with Python, primarily utilizing it for data analysis and automation tasks. For example, in developing the attendance tracking system for my NSS and Drone club organizations, I leveraged the Pandas library for data manipulation and analysis. A specific function I found particularly useful was `groupby()`, which allowed me to aggregate attendance data efficiently and derive insights into member participation trends.
+## 22. What are some data visualization libraries you have used? How do you decide which one to use for a particular project?  
+I have used libraries such as Matplotlib, Seaborn, and Plotly for data visualization. My decision on which library to use depends on the project's requirements; for instance, I prefer Matplotlib for static visualizations due to its flexibility and control over the output, while I choose Plotly for interactive visualizations that enhance user engagement, especially in dashboards.
 
-22. **What are some data visualization libraries you have used? How do you decide which one to use for a particular project?**  
-   I have used libraries such as Matplotlib, Seaborn, and Plotly for data visualization. My decision on which library to use depends on the project's requirements; for instance, I prefer Matplotlib for static visualizations due to its flexibility and control over the output, while I choose Plotly for interactive visualizations that enhance user engagement, especially in dashboards.
+## 23. Describe your experience with SQL. Can you provide an example of a complex query you wrote and the problem it solved?  
+I have utilized SQL for data retrieval and manipulation in various projects. One complex query I wrote involved joining multiple tables to analyze attendance patterns by different parameters, such as event type and member participation rates. This query helped identify which events had the highest engagement, enabling us to plan future events more effectively.
 
-23. **Describe your experience with SQL. Can you provide an example of a complex query you wrote and the problem it solved?**  
-   I have utilized SQL for data retrieval and manipulation in various projects. One complex query I wrote involved joining multiple tables to analyze attendance patterns by different parameters, such as event type and member participation rates. This query helped identify which events had the highest engagement, enabling us to plan future events more effectively.
+## 24. What do you understand about propulsion systems? Can you explain the difference between monopropellant and bipropellant systems?  
+Propulsion systems convert stored energy into thrust to propel vehicles. Monopropellant systems use a single propellant, which decomposes to produce thrust upon ignition, often found in smaller thrusters. In contrast, bipropellant systems combine two substances—fuel and oxidizer—resulting in higher efficiency and thrust. Understanding these differences is crucial in selecting appropriate propulsion systems for specific applications.
 
-### Aerospace and Propulsion Knowledge
+## 25. In your project on optimizing solid rocket propellant performance, what specific design variations did you analyze, and what were the results?  
+In my project, I analyzed variations in nozzle design, such as divergent angle and throat diameter, alongside cross-sectional area adjustments. By simulating these variations, I observed significant differences in thrust output and efficiency. My analysis indicated that optimizing these parameters could enhance overall propellant performance by approximately 15%, leading to more efficient rocket designs.
 
-24. **What do you understand about propulsion systems? Can you explain the difference between monopropellant and bipropellant systems?**  
-   Propulsion systems convert stored energy into thrust to propel vehicles. Monopropellant systems use a single propellant, which decomposes to produce thrust upon ignition, often found in smaller thrusters. In contrast, bipropellant systems combine two substances—fuel and oxidizer—resulting in higher efficiency and thrust. Understanding these differences is crucial in selecting appropriate propulsion systems for specific applications.
+## 26. How do you handle large datasets? Can you describe a project where you had to process and analyze complex data?  
+I handle large datasets by utilizing efficient data processing techniques, including data cleaning and optimization. In my attendance tracking project, I processed data from multiple events, aggregating it for analysis. I used Python's Pandas library to manage this complex data, ensuring accuracy and facilitating easy extraction of insights regarding member engagement.
 
-25. **In your project on optimizing solid rocket propellant performance, what specific design variations did you analyze, and what were the results?**  
-   In my project, I analyzed variations in nozzle design, such as divergent angle and throat diameter, alongside cross-sectional area adjustments. By simulating these variations, I observed significant differences in thrust output and efficiency. My analysis indicated that optimizing these parameters could enhance overall propellant performance by approximately 15%, leading to more efficient rocket designs.
+## 27. What statistical analysis techniques have you used in your previous projects? How did they help you derive meaningful insights?  
+I have employed techniques such as regression analysis, descriptive statistics, and hypothesis testing. For instance, in analyzing the attendance data, I used regression analysis to understand factors affecting participation rates. This approach provided actionable insights for improving event planning and member engagement strategies.
 
-### Data Analysis
+## 28. Can you walk me through your thought process when approaching a new programming challenge?  
+When approaching a new programming challenge, I first define the problem clearly and gather requirements. Next, I break down the challenge into smaller components, developing a plan for each part. I often utilize pseudocode to outline my approach before implementing the solution, allowing me to visualize the logic. Finally, I test and refine my code to ensure it meets the desired outcomes.
 
-26. **How do you handle large datasets? Can you describe a project where you had to process and analyze complex data?**  
-   I handle large datasets by utilizing efficient data processing techniques, including data cleaning and optimization. In my attendance tracking project, I processed data from multiple events, aggregating it for analysis. I used Python's Pandas library to manage this complex data, ensuring accuracy and facilitating easy extraction of insights regarding member engagement.
+## 29. Describe a technical problem you encountered during a project. How did you diagnose the issue, and what steps did you take to resolve it?  
+During my real-time monitoring project with LabVIEW, I faced issues with data acquisition lag. I diagnosed the problem by checking sensor connections and analyzing the data flow in the software. After identifying that the bottleneck was in data processing speed, I optimized my LabVIEW code to streamline data handling, significantly improving response times and reliability.
 
-27. **What statistical analysis techniques have you used in your previous projects? How did they help you derive meaningful insights?**  
-   I have employed techniques such as regression analysis, descriptive statistics, and hypothesis testing. For instance, in analyzing the attendance data, I used regression analysis to understand factors affecting participation rates. This approach provided actionable insights for improving event planning and member engagement strategies.
+## 30. In your role as Management Head for Project Jatayu, how did you manage team dynamics and ensure effective collaboration?  
+I focused on clear communication and defined roles within the team to manage dynamics effectively. I held regular meetings to update everyone on progress and address any concerns. Encouraging collaboration through brainstorming sessions helped foster creativity and inclusiveness, ultimately leading to successful project outcomes.
 
-### Problem-Solving and Analytical Thinking
+## 31. Can you discuss a time when you faced a conflict within your team? How did you handle it, and what was the outcome?  
+I encountered a conflict regarding differing opinions on project direction. To resolve this, I facilitated a meeting where each member could voice their views. We discussed the pros and cons of each perspective, eventually reaching a consensus. This not only resolved the conflict but also strengthened team cohesion and commitment to the project.
 
-28. **Can you walk me through your thought process when approaching a new programming challenge?**  
-   When approaching a new programming challenge, I first define the problem clearly and gather requirements. Next, I break down the challenge into smaller components, developing a plan for each part. I often utilize pseudocode to outline my approach before implementing the solution, allowing me to visualize the logic. Finally, I test and refine my code to ensure it meets the desired outcomes.
+## 32. You mentioned developing an attendance tracking system. What challenges did you face during its development, and how did you overcome them?  
+One challenge was ensuring accurate data entry from various events, which sometimes led to inconsistencies. To address this, I implemented validation checks within the application to minimize human error. Additionally, I provided training sessions for users to familiarize them with the system, improving overall data accuracy.
 
-29. **Describe a technical problem you encountered during a project. How did you diagnose the issue, and what steps did you take to resolve it?**  
-   During my real-time monitoring project with LabVIEW, I faced issues with data acquisition lag. I diagnosed the problem by checking sensor connections and analyzing the data flow in the software. After identifying that the bottleneck was in data processing speed, I optimized my LabVIEW code to streamline data handling, significantly improving response times and reliability.
+## 33. In your project utilizing Pixhawk and Arduino, what specific functionalities did you implement to ensure collision avoidance?  
+I implemented sensor integration using ultrasonic and infrared sensors to detect obstacles. The Pixhawk was programmed to process sensor data and adjust flight paths accordingly, employing algorithms that allowed the drone to navigate around obstacles autonomously. This ensured safe operation during industrial inspections.
 
-### Project Management and Teamwork
+## 34. Can you describe your understanding of the software development lifecycle? How have you applied these concepts in your projects?  
+The software development lifecycle (SDLC) encompasses stages such as requirement analysis, design, implementation, testing, and maintenance. I have applied these concepts by systematically following each phase in my projects, ensuring thorough testing and documentation, which facilitated smoother transitions between stages and improved project quality.
 
-30. **In your role as Management Head for Project Jatayu, how did you manage team dynamics and ensure effective collaboration?**  
-   I focused on clear communication and defined roles within the team to manage dynamics effectively. I held regular meetings to update everyone on progress and address any concerns. Encouraging collaboration through brainstorming sessions helped foster creativity and inclusiveness, ultimately leading to successful project outcomes.
+## 35. What is your experience with software quality assurance and testing processes? Can you give an example of how you’ve applied these principles?  
+I have conducted both manual and automated testing processes to ensure software quality. In the attendance tracking system, I developed test cases to cover different scenarios, identifying and resolving bugs before deployment. This rigorous testing helped maintain the reliability and user-friendliness of the application.
 
-31. **Can you discuss a time when you faced a conflict within your team? How did you handle it, and what was the outcome?**  
-   I encountered a conflict regarding differing opinions on project direction. To resolve this, I facilitated a meeting where each member could voice their views. We discussed the pros and cons of each perspective, eventually reaching a consensus. This not only resolved the conflict but also strengthened team cohesion and commitment to the project.
+## 36. What interests you about working with Manastu Space Technologies and its mission to combat debris pollution in space?  
+I am deeply passionate about aerospace engineering and sustainability. Manastu Space's innovative approach to addressing space debris pollution aligns with my values and aspirations. I am eager to contribute my skills to projects that have a meaningful impact on the future of space exploration and environmental conservation.
 
-### Specific Projects and Experiences
+## 37. How do you see this internship contributing to your long-term career goals in aerospace engineering and software development?  
+This internship presents an invaluable opportunity to gain hands-on experience in a cutting-edge field. I aim to integrate my software development skills with aerospace applications, particularly in propulsion systems. This role will provide me with insights and experiences that are critical for achieving my long-term career goals.
 
-32. **You mentioned developing an attendance tracking system. What challenges did you face during its development, and how did you overcome them?**  
-   One challenge was ensuring accurate data entry from various events, which sometimes led to inconsistencies. To address this, I implemented validation checks within the application to minimize human error. Additionally, I provided training sessions for users to familiarize them with the system, improving overall data accuracy.
-
-33. **In your project utilizing Pixhawk and Arduino, what specific functionalities did you implement to ensure collision avoidance?**  
-   I implemented sensor integration using ultrasonic and infrared sensors to detect obstacles. The Pixhawk was programmed to process sensor data and adjust flight paths accordingly, employing algorithms that allowed the drone to navigate around obstacles autonomously. This ensured safe operation during industrial inspections.
-
-### Understanding of Software Development Lifecycle
-
-34. **Can you describe your understanding of the software development lifecycle? How have you applied these concepts in your projects?**  
-   The software development lifecycle (SDLC) encompasses stages such as requirement analysis, design, implementation, testing, and maintenance. I have applied these concepts by systematically following each phase in my projects, ensuring thorough testing and documentation, which facilitated smoother transitions between stages and improved project quality.
-
-35. **What is your experience with software quality assurance and testing processes? Can you give an example of how you’ve applied these principles?**  
-   I have conducted both manual and automated testing processes to ensure software quality. In the attendance tracking system, I developed test cases to cover different scenarios, identifying and resolving bugs before deployment. This rigorous testing helped maintain the reliability and user-friendliness of the application.
-
-### Motivation and Career Goals
-
-36. **What interests you about working with Manastu Space Technologies and its mission to combat debris pollution in space?**  
-   I am deeply passionate about aerospace engineering and sustainability. Manastu Space's innovative approach to addressing space debris pollution aligns with my values and aspirations. I am eager to contribute my skills to projects that have a meaningful impact on the future of space exploration and environmental conservation.
-
-37. **How do you see this internship contributing to your long-term career goals in aerospace engineering and software development?**  
-   This internship presents an invaluable opportunity to gain hands-on experience in a cutting-edge field. I aim to integrate my software development skills with aerospace applications, particularly in propulsion systems. This role will provide me with insights and experiences that are critical for achieving my long-term career goals.
-
-### Behavioral Questions
-
-38. **Describe a situation where you had to learn a new skill or technology quickly. How did you approach it?**  
-   I had to quickly learn SQL while developing the attendance tracking system. I approached this by dedicating time to online courses and practicing through real-life applications in the project. I utilized resources like forums and documentation to reinforce my learning, enabling me to implement SQL queries effectively within a short timeframe.
-
-39. **Tell me about a time you took the initiative in a project. What was the situation, and what was the outcome?**  
-   In the Project Jatayu, I noticed a gap in communication regarding project updates. I took the initiative to establish a weekly update system where team members could share progress and challenges. This initiative improved transparency and accountability within the team, leading to more efficient project execution and enhanced morale.
+## 38. Describe a situation where you had to learn a new skill or technology quickly. How did you approach it?  
+I had to quickly learn SQL while developing the attendance tracking system. I approached this by dedicating time to online courses and practicing through real-life applications in the project. I utilized resources like forums and documentation to reinforce my learning, enabling me to implement SQL queries effectively within a short timeframe.
